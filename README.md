@@ -8,7 +8,7 @@ Markerboard mentality is all challenging people who make things to fully underst
 
 The temptation for people who build solutions (whether code based solutions or design based solutions) is to focus on the details execution and implementation first, when the best way to tackle a challenge is often from a higher, more abstract vantage point.
 
-This talk was given at Central Pennsylvania Open Source Conference 2013, and based on [this article](http://joelglovier.com/writing/2013/markerboard-mentality/).
+This talk was given at [Central Pennsylvania Open Source Conference 2013](http://lanyrd.com/2013/cposc/scpkmz/), and based on [this article](http://joelglovier.com/writing/2013/markerboard-mentality/).
 
 - [Talk slides & manuscript on SpeakerDeck](https://speakerdeck.com/jglovier/product-design-and-markerboard-mentality)
 
@@ -18,7 +18,11 @@ What determines whether a user has a positive experience or a negative experienc
 
 We will explore these questions and look at why cultivating positive user experiences is about a relationship with the audience of your product, and why empathy is a critical lens to  wear when designing for that relationship.
 
-This talk was given at Front End Design Confernence 2013 as a Day 2 attendee talk.
+This talk was given at [Front End Design Confernence 2013](http://lanyrd.com/2013/frontendconf/) as a Day 2 attendee talk.
 
 - [Talk slides on SpeakerDeck](https://speakerdeck.com/jglovier/cultivating-positive-user-experiences)
+
+## [Getting Started with GitHub (WORKSHOP)](getting-started-with-github)
+
+This workshop was given at [Pilot Philly 2013](http://philly.gopilot.org/).
 
