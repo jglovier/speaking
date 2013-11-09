@@ -4,7 +4,7 @@ _[slide 1: talk title: "Product Design and Markerboard Mentality"]_
 
 _[slide 2: name & twitter handle]_
 
-I'm Joel Glovier - "jglover" on twitter, so if you have any questions or thoughts about today find me there and we can talk more. I love what we do in this industry and I love talking to people about what we do, so let's have conversation.
+I'm Joel Glovier - "jglovier" on twitter, so if you have any questions or thoughts about today find me there and we can talk more. I love what we do in this industry and I love talking to people about what we do, so let's have conversation.
 
 _[slide 3: GitHub logo]_
 
