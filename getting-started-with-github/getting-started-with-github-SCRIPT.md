@@ -1,4 +1,4 @@
-# Getting Started with GitHub
+# Getting Started with GitHub (SCRIPT)
 
 _[slide X: description]_
 
