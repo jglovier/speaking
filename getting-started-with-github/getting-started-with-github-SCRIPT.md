@@ -8,7 +8,20 @@ _[slide 2: name and twitter handle]_
 
 I'm Joel Glovier - "jglovier" on GitHub and Twitter, so if you have any questions or thoughts about the workshop after it's over, I'll be around for a little while to answer questions but feel free to ping me on Twitter and we can continue the discussion.
 
+I work at GitHub where I'm a front-end designer. At GitHub we make tools to help developers work better together. 
+
+[Question] Just out of curiosity how many people here use GitHub? How many people aren’t using it but are familiar with it? Is there anybody whose never heard of GitHub?
+
+Awesome. Well for anyone who’s never heard of GitHub, we make tools that help people work better together. Collaboration is what we're all about, and the way we focus on that is with GitHub.com, which is a git hosting solution. If you're not familiar with git, git is a type of version control system, and we'll talk more about that in just a minute.
+
 _[slide 3: the roadmap ]_
+
+Here's the roadmap for our time together. We're going to take a look at Version Control, what it is and why it's important; we'll talk about Git, and what makes it's so special; I'll explain how to get setup on GitHub and show you how it makes building software better together; and finally we'll dig right into the details of getting started with how git works, how to make commits by thinking in logical chunks, how to use a feature branch, and we'll if we have enough time we'll look at merging, conflicts, and pull requests.
+
+_[slide 4: TEH CODEZ]_
+
+So first I'd like see who here codes? Put your hand up if you code in HTML? CSS? JavaScript? PHP? .Net? Ruby? Java? How about Python? Pearl? Anything I missed? (go ahead shout it out..)
+
 
 
 
