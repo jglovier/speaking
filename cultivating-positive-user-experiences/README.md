@@ -8,8 +8,4 @@ This talk was given at [Front End Design Confernence 2013](http://lanyrd.com/201
 
 - [Talk slides on SpeakerDeck](https://speakerdeck.com/jglovier/cultivating-positive-user-experiences)
 
-## [Getting Started with GitHub (WORKSHOP)](getting-started-with-github)
-
-This workshop was given at [Pilot Philly 2013](http://philly.gopilot.org/).
-
 [&larr; Back to talks index](https://github.com/jglovier/speaking/)
