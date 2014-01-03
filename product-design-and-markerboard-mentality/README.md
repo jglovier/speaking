@@ -8,4 +8,4 @@ This talk was given at [Central Pennsylvania Open Source Conference 2013](http:/
 
 - [Talk slides & manuscript on SpeakerDeck](https://speakerdeck.com/jglovier/product-design-and-markerboard-mentality)
 
-[&larr;Back to talks index](/)
+[&larr; Back to talks index](https://github.com/jglovier/speaking/)

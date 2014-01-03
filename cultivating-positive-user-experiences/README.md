@@ -12,4 +12,4 @@ This talk was given at [Front End Design Confernence 2013](http://lanyrd.com/201
 
 This workshop was given at [Pilot Philly 2013](http://philly.gopilot.org/).
 
-[&larr;Back to talks index](/)
+[&larr; Back to talks index](https://github.com/jglovier/speaking/)
