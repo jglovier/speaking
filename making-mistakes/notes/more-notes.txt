@@ -1,0 +1,96 @@
+## Resources:
+
+Stuff for reference:
+- Atmos' talk on Automating your software delivery pipline: https://www.youtube.com/watch?v=IxW_D79WPZI
+- Octostudy 1
+- Octostudy 13
+- http://speaking.io/
+- Holman talks: http://zachholman.com/talks
+- Move fast and break nothing (holman) http://zachholman.com/talk/move-fast-break-nothing/#video
+- The Talk on Talks (holman) http://zachholman.com/talk/the-talk-on-talks/
+- Circles Talks: http://circlesco.com/conference/2014-on-demand/index.php
+- Matt Graham's talk from Front End Conf: http://madebygraham.com/2013/Speaking-Out/
+
+Sites:
+- http://www.fluentin3months.com/make-mistakes/
+- http://www.npr.org/2013/03/11/174030515/making-mistakes
+- http://www.lifehack.org/articles/productivity/40-things-you-learn-from-making-mistakes.html
+- http://www.purposefairy.com/6464/7-reasons-why-not-making-mistakes-is-the-biggest-mistake/
+- http://my.ilstu.edu/~eostewa/ART309/Mistakes.htm
+- http://www.npr.org/blogs/13.7/2012/02/28/147567970/the-importance-of-mistakes
+- http://www.edutopia.org/blog/teaching-students-to-embrace-mistakes-hunter-maats-katie-obrien
+- http://www.vanseodesign.com/whatever/make-mistakes/
+- Quotes from Creativity Inc: http://www.slideshare.net/Bplans/the-pixar-way-37-quotes
+- More quotes from Creativity Inc: http://www.goodreads.com/work/quotes/25384143-creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of
+- http://giffconstable.com/2014/09/favorite-quotes-from-creativity-inc/
+
+---
+
+## Stories
+
+**Pro skaters fail too**
+
+How many skaters or former skaters do we have in the house? Anyone know Daewon Song? When I was younger I used to love watching skate videos and Daewon Song was one of my favorite pro skaters. That dude was one of the sickest technical skaters of his generation. I mean everything he was doing looked like the future of skateboarding.
+
+There was the one particular video I used to watch all the time. It was called Rodney Mullen vs Daewon Song. Two of the most technical skaters at the time going head to head in one video. Here's a clip from that video from 1997.
+
+*[play https://www.youtube.com/watch?v=y9Izkj2PNG4&t=1m37s till 2m25s]*
+
+I don't know if you see what he's doing but he was busting fakie heelflips to manual to treflip out. I mean just mind blown! All of Daewon's tricks were so clean - it looked like he had complete control over his board and he could just never fall.
+
+*[play https://www.youtube.com/watch?v=XMerNQucwvc&t=0m20s till 1m15s]*
+
+Daewon is still skating and he's still amazing. Here's some footage from recent years. The dude is still a master.
+
+But one of my favorite things about the skate videos was when the scenes at the end when they showed the outakes where they fall, break their board, hit their nuts on a rail, etcetera.
+
+Here's some of Daewon's less impressive tricks:
+
+*[play https://www.youtube.com/watch?v=sLu_b69Ebzw&t=0m4s till 1m15s]*
+
+Turns out, to land a lot of great tricks you have to be willing bail a lot too.
+
+And for me this was always great reminder that A) these skateboarding idols I looked up to were normal people too, and B) it turns out it takes a lot of filming failures to get the shot where you land the trick.
+
+And this isn't just how it is in skateboarding - this is life. Life is filled with failures, but we cultivate and showcase the successes.
+
+## Quotes
+
+> "**I have not failed. I've just found 10,000 ways that won't work.**" - Thomas Edison
+**The point:** Mistakes are a natural part of success.
+
+> "**If you're not making mistakes, then you're not doing anything.**" - John Wooden (UCLA coach)
+
+> "**You don't learn to walk by following rules. You learn by doing, and by falling over.**" - Richard Branson (business mogul and investor)
+
+> "Anyone who has never made a mistake has never tried anything new." - Albert Einstein (smart person)
+
+> "**Freedom is not worth having if it does not include the freedom to make mistakes.**" - Mahatma Gandhi (revolutionary)
+
+> "Have no fear of perfection - you'll never reach it." - Salvador Dali
+
+> "We learn from failure, not from success!" - Bram Stoker (author)
+
+> "I have learned all kinds of things from my many mistakes. The one thing I never learn is to stop making them." - Joe Abercrombie (author)
+
+> "**The greatest mistake you can make in life is to be continually fearing you will make one.**" ~ Elbert Hubbard ()
+
+> "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations." - Steve Jobs
+
+> "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing." ~ George Bernard Shaw (writer, philospher, traveling salesman)
+
+> "A positive attitude towards mistakes will allow them to be corrected rapidly when they occur." ~ John Cleese (actor, comedian, writer)
+
+> "**Would you like me to give you a formula for success? It’s quite simple, really. Double your rate of failure.**" ~ Thomas J. Watson (founder of IBM)
+
+> "**Mistakes aren't a necessary evil. They aren't evil at all. They are an inevitable consequence of doing something new, and as such should be seen as valuable.**" ~ Ed Catmull (President of Pixar; from the book Creativity, Inc)
+
+> "**There are two parts to any failure: there is the event itself, with all its attendant disappointment, confusion, and shame, and then there is our reaction to it. It is this second part that we control.**" ~ Ed Catmull, Creativity, Inc.
+
+> "To be wrong as fast as you can is to sign up for aggressive, rapid learning." ~ Ed Catmull, Creativity, Inc.
+
+> "The attempt to avoid failure makes failure more likely." ~ Ed Catmull, Creativity, Inc.
+
+> "If you aren’t experiencing failure, then you are making a far worse mistake: You are being driven by the desire to avoid it." ~ Ed Catmull, Creativity, Inc.
+
+> "While we don’t want too many failures, we must think of the cost of failure as an investment in the future." ~ Ed Catmull
