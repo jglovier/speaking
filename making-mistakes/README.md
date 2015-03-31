@@ -6,4 +6,8 @@ Given at [Squares Conference](http://squaresconference.com) in Grapevine, Texas,
 
 - [Talk slides on SpeakerDeck](https://speakerdeck.com/jglovier/the-power-of-making-mistakes)
 
+[Get in touch](mailto:jglovier@github.com) if you'd like me to give this talk at your conference.
+
+[&larr; Back to talks index](https://github.com/jglovier/speaking/)
+
 ![img](assets/pics/twitter-mds-talk-pic-1.jpg)
