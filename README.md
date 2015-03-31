@@ -9,3 +9,5 @@ A place to store all my talks, both polished and in-progress. Also, [find me on 
 ### [Cultivating Positive User Experiences](cultivating-positive-user-experiences)
 
 ### [Getting Started with GitHub](getting-started-with-github)
+
+![img](making-mistakes/assets/pics/twitter-mds-talk-pic-1.jpg)
