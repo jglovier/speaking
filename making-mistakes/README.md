@@ -5,6 +5,7 @@
 Given at [Squares Conference](http://squaresconference.com) in Grapevine, Texas, on March 27th, 2015.
 
 - [Talk slides on SpeakerDeck](https://speakerdeck.com/jglovier/the-power-of-making-mistakes)
+- [Talk audio and slides on Vimeo](#)
 
 [Get in touch](mailto:jglovier@github.com) if you'd like me to give this talk at your conference.
 
